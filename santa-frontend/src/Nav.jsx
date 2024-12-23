@@ -6,7 +6,7 @@ const navLinks = [
   { title: "Gifts Categories", href: "/categorized-gifts" },
   { title: "Santa's List", href: "/behaviour" },
   { title: "Santa Airlines", href: "/earth-animation" },
-  //{ title: "Stamina", href: "/behaviour" },
+  { title: "Stamina", href: "/chinchilla"},
 ];
 
 const Navbar = () => {

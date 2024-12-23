@@ -1,7 +1,6 @@
 import React from "react";
 import backgroundImage from "./images/background.webp";
 import Santa from "./images/santa.png";
-import { Link } from "react-router-dom";
 
 function Hero() {
   return (

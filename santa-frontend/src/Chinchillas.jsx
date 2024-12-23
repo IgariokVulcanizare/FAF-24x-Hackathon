@@ -10,7 +10,7 @@ const Chinchillas = () => {
 
   return (
     <div className="container">
-      <h1 className="title">Click the Chinchilla!</h1>
+      <h1 className="title">Santa's running low on stamina, FAST, Click the Chinchilla!!!</h1>
       <img
         src={isHappy ? '/chinchillas-front.jpg' : '/chinchillas-back.jpg'}
         alt={isHappy ? 'Happy Chinchilla' : 'Back Chinchilla'}

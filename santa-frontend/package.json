@@ -30,8 +30,5 @@
     "@vitejs/plugin-react": "^4.3.1",
     "csv-loader": "^3.0.5",
     "vite": "^5.4.3"
-=======
-    "vite": "^5.4.11"
->>>>>>> 4c3e0efe3963f3ab4b9046d6c4c3c16e80ff8f3e
   }
 }
